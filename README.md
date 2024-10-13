@@ -1,4 +1,4 @@
-# Instalador Whaticket SaaS - Redis em Docker
+# Instalador I3.What SaaS - Redis em Docker
 
 Neste instalador o pm2 é no usuário root.
 
