@@ -79,11 +79,17 @@ USER_LIMIT=${max_user}
 CONNECTIONS_LIMIT=${max_whats}
 CLOSED_SEND_BY_ME=true
 
-MAIL_HOST="smtp.hostinger.com"
-MAIL_USER="contato@seusite.com"
-MAIL_PASS="senha"
-MAIL_FROM="Recuperar Senha <contato@seusite.com>"
+MAIL_HOST="mail.i3what.com.br"
+MAIL_USER="contato@i3what.com.br"
+MAIL_PASS="oM95rrBYoDTRF@"
+MAIL_FROM="Recuperar Senha - I3.What <contato@i3what.com.br>"
 MAIL_PORT="465"
+
+GERENCIANET_SANDBOX=false
+GERENCIANET_CLIENT_ID=Client_Id_b86b1f1a8a24cdaf0ccec58593749824ab4ae274
+GERENCIANET_CLIENT_SECRET=Client_Secret_d34053903ce9b8b41d2891463480dc3b91d3bcf1
+GERENCIANET_PIX_CERT=producao-562181-I3What.Com.Br
+GERENCIANET_PIX_KEY=pix@i3what.com.br
 
 [-]EOF
 EOF
